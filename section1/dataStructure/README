@@ -1,0 +1,32 @@
+# Data Structure
+
+## Question to answer
+
+1. I have a data, what data structure can it represent
+    - Definition, Draw, Explain
+2. How can i input that data to its structure
+3. How can i process that data for wanted result
+
+## Data types
+
+1. Array, Linked list
+2. Stack
+3. Queue
+4. Heap
+5. Hash Table
+6. Binary Tree
+7. Binary Search Tree
+8. Graph
+
+## Resources
+
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Data Structures And Algorithm Analysis In C++](https://vdoc.pub/documents/data-structures-and-algorithm-analysis-in-c-g0h910uc8400), Allen W. M.
+
+## Weeks
+
+### 2
+
+- Array, Struct, References, Pointer: 1 hour
+
+array use when we want to store same data type in variety value. And we can't delete value 
