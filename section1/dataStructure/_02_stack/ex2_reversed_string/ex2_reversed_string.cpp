@@ -2,7 +2,7 @@
 using namespace std;
 
 typedef struct Node {
-    int data;
+    char data;
     Node *next;
     Node *previous;
 } Node;
@@ -14,12 +14,12 @@ void pop ( ) {
     if ( head != NULL ) {
         Node *curr = trail;
         if ( head == trail ) {
-            cout << trail -> data << endl;
+            cout << trail -> data;
             head = NULL;
         }
 
         if ( trail -> previous != NULL ) {
-            cout << trail -> data << endl;
+            cout << trail -> data;
             trail = trail -> previous;
             trail -> next = NULL;
         }
@@ -27,7 +27,7 @@ void pop ( ) {
     }
 }
 
-void add( int data ) {
+void add( char data ) {
     Node *temp = new Node;
     temp  -> data = data;
     temp -> next = NULL;
@@ -43,12 +43,8 @@ void add( int data ) {
     }
 }
 
-void peek() {
-    cout << trail -> data << endl;
-}
-
 void displayAll() {
-    for ( Node *curr = head; curr != NULL ; curr = curr -> next ) {
+    for ( Node *curr = trail; curr != NULL ; curr = curr -> previous ) {
         if ( curr -> next == NULL ) {
             cout << curr -> data << " ";
         } else {
@@ -59,45 +55,22 @@ void displayAll() {
     cout << endl;
 }
 
-int findLength() {
-    int length = 0;
-    for ( Node *curr = head; curr != NULL; curr = curr -> next ) {
-        length += 1;
-    }
-    return length;
-}
-
 int main () {
+    char messege[ 100 ];
+    cin >> messege;
 
-    while ( true ) {
-        char operation;
-        cin >> operation;
-
-        if ( operation == 'U' ) {
-            int data;
-            cin >> data;
-            add( data );
-        }
-
-        if ( operation == 'O' ) {
-            pop( ); 
-        }
-        
-        if ( operation == 'T' ) {
-            peek( );
-        }
-
-        if ( operation == 'P' ) {
-            displayAll( );
-        }
-
-        if ( operation == 'N' ) {
-            cout << findLength( ) << endl;
-        }
-
-        if ( operation == 'X' ) {
-            break;
-        }
+    int i = 0;
+    while ( *( messege + i ) != '\0' ) {
+        char currrentCharacter = *( messege + i );
+        add( currrentCharacter );
+        i++;
     }
+
+    while ( i >= 0 ) {
+        char currrentCharacter = *( messege + i );
+        pop( );
+        i--;
+    }
+
     return 0;
 }
