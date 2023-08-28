@@ -73,5 +73,7 @@ $$
 5. solve matrix by
   
 5.1 Crammer Rule
+
 5.2 inersion method
+
 5.3 lu decompose 
