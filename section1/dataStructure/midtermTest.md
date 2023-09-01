@@ -170,7 +170,7 @@ remove index 2;
 ```
 <hr/>
 
-1.   this is timetable of each process with arrived time and computation time, write start time of each process.
+13.   this is timetable of each process with arrived time and computation time, write start time of each process.
 
 | process name | arrived time | commutation time |
 | ------------ | ------------ | ---------------- |
