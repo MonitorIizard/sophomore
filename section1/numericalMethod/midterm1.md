@@ -76,4 +76,4 @@ $$
 
 5.2 inersion method
 
-5.3 lu decompose 
+5.3 lu decompose
