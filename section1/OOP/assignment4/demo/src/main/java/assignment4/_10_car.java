@@ -54,7 +54,7 @@ public class _10_car {
     
     count += 1;
     
-    if ( count == 6 ) {
+    if ( count == time + 1 ) {
       for ( int l = 0; l < count - 1; l++ ) {
         stack2.push( stack1.pop() );
         // System.out.printf("%d ", stack1.pop());
