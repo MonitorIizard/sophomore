@@ -8,7 +8,7 @@ public class Example7 {
         double side3 = sc.nextDouble();
         myTriangle obj = new myTriangle();
         if ( obj.isValid(side1, side2, side3) ) {
-            System.out.println( obj.area(side1, side2, side3) );
+            System.out.printf("%.2f" ,obj.area(side1, side2, side3) );
         } else {
             System.out.println( "0" );
         }
