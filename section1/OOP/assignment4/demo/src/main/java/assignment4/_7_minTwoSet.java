@@ -15,38 +15,27 @@ public class _7_minTwoSet {
       numberSet[i] = number;
     }
 
-    double min = Double.MAX_VALUE;
-    double product;
+    // double min = Double.MAX_VALUE;
+    // double product;
   
     for(int i = 0; i < numberSet.length; i++ ) {
-      product = numberSet[i];
-
-      for( int k = i; k < numberSet.length; k++ ) {
-
-        if ( k != i ) {
-          product = Math.abs(product - numberSet[k]);
+      for( int k = 0; k < numberSet.length; k++ ) {
+        if( numberSet[i] < numberSet[k] ) {
+          int temp = numberSet[i];
+          numberSet[i] = numberSet[k];
+          numberSet[k] = temp;
         }
-
-        for( int j = k; j < numberSet.length; j++ ) {
-
-          if( j == k ) {
-            continue;
-          }
-
-          double temp = product;
-          temp = Math.abs(temp - numberSet[j]);
-
-          System.out.printf("%.2f - %d = %.2f\n", product, numberSet[j], temp);
-          System.out.printf("i = %d j = %d k = %d\n\n", i, k, j);
-          if ( min > temp ) {
-            min = temp;
-          }
-        }
-         System.out.println();
       }
+
     }
 
-    System.out.print(min);
+    double product = 0;
+    for ( int i = 0; i < numberSet.length / 2; i++ ) {
+      // product -= numberSet[i] - numberSet[ numberSet.length - 1 - i ];
+      System.out.printf("%f %d %d\n",product , numberSet[i] , numberSet[ numberSet.length - 1 - i]);
+      // product = Math.abs( product );
+    }
 
+    System.out.println(product);
   }
 }
