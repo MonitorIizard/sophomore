@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Example5 {
+public class _5_RoachPopulation {
     public static void main ( String[] args ) {
         Scanner sc = new Scanner( System.in );
         RoachPopulation obj = new RoachPopulation( sc.nextInt() );

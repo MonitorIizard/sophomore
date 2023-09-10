@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Example6 {
+public class _6_Palindome {
     public static void main( String[] args ) {
         Scanner sc = new Scanner( System.in );
         System.out.println( Palindrome.isPalindrome( sc.nextLine()) );

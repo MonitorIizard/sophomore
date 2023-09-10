@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Example7 {
+public class _7_MyTriangle {
     public static void main( String[] args ) {
         Scanner sc = new Scanner( System.in );
         double side1 = sc.nextDouble();
