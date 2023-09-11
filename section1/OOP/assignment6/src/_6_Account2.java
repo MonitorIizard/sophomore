@@ -96,7 +96,7 @@ class PersonAccount extends Account {
 
     @Override
     public String toString() {
-        int id = getId();q
+        int id = getId();
         double balance = getBalance();
         Date createdDate = getDateCreated();
         int day = createdDate.getDay();
