@@ -5,16 +5,13 @@ const MatrixA = [[5, 2, 0, 0],
 const VectorX = [0, 0, 0, 0];
 const VectorXTemp = [0, 0, 0, 0];
 const VectorB = [12, 17, 14, 7];
-const tolerent = 0.001;
+const tolerent = 0.000006;
 
 function calError ( x, tempX ) {
   return Math.abs( (x - tempX) / x ) * 100;
 }
 
-let i = 1;
-
-while ( true ) {
-
+while( true ) {
   process.stdout.write(`round ${i}`);
 
   for( let i = 0; i < VectorXTemp.length; i++ ) {
@@ -29,7 +26,7 @@ while ( true ) {
     for ( let i = 0; i < MatrixA[j].length; i++ ) {
       if( i == j ) continue;
       
-      sum -= (MatrixA[j][i] * VectorXTemp[i]);
+      sum -= (MatrixA[j][i] * VectorX[i]);
       
       //console.log(`MatrixA[i][j] = ${ MatrixA[j][i] } vectorX = ${ VectorX[j]} sum = ${sum}`);
     }
@@ -50,6 +47,3 @@ while ( true ) {
 }
 
 console.log(`number of round = ${i}`);
-
-
-
