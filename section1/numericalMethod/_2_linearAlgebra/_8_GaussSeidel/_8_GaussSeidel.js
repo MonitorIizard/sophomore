@@ -5,7 +5,9 @@ const MatrixA = [[5, 2, 0, 0],
 const VectorX = [0, 0, 0, 0];
 const VectorXTemp = [0, 0, 0, 0];
 const VectorB = [12, 17, 14, 7];
-const tolerent = 0.000006;
+const tolerent = 0.001;
+
+let i = 1;
 
 function calError ( x, tempX ) {
   return Math.abs( (x - tempX) / x ) * 100;
