@@ -20,6 +20,9 @@ for ( let i = 0; i < MatrixA.length; i++ ) {
 let lambda;
 let i = 1;
 while( true ) {
+
+  console.log();
+
   lambda = 0;
   for ( let k = 0; k < D.length; k++ ) {
     lambda += D[k] * R[k];
@@ -37,6 +40,8 @@ while( true ) {
 
   }
   lambda /= ( -1 * tempSum);
+
+  console.log(lambda);
 
   for ( let k = 0; k < X.length; k++ ) {
     X[k] = X[k] + lambda * D[k];
