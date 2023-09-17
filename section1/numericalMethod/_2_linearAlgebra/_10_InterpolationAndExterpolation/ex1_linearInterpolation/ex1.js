@@ -31,7 +31,7 @@ function approximateX ( givenData, xToFind ) {
 
 let x42235 = approximateX(givenData, 42_235);
 
-console.log( x42235 );
+console.log( `f(x42235) = ${x42235}` );
 
 // let start = 0;
 // let end = givenData.length - 1;
