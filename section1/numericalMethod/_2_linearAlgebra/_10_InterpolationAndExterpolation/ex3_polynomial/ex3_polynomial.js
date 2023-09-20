@@ -1,4 +1,12 @@
+let cache = [];
+
 function findC (givenData, start, end) {
+  let key = `${start}${end}`;
+
+  if ( key in cache ) {
+    return cache[key];
+  }
+  
   if( Math.abs(start - end) == 1 ) {
     let deltaY = givenData[start].functionX - givenData[end].functionX;
     return deltaY;
@@ -6,6 +14,10 @@ function findC (givenData, start, end) {
 
   let LeftNode = findC( givenData, start + 1, end) / ( givenData[start + 1].x - givenData[end].x );
   let RightNode = findC( givenData, start, end - 1 ) / ( givenData[start].x - givenData[end - 1].x );
+
+  cache[key] = RightNode;
+  cache[key] = LeftNode;
+
   return RightNode - LeftNode;
 }
 
@@ -16,7 +28,12 @@ class coordinate {
   }
 }
 
-let givenData = [ new coordinate(0, 9.81), new coordinate(20_000, 9.7487), new coordinate(40_000, 9.6879), new coordinate(60_000, 9.7487),  new coordinate(80000, 9.5682) ];
+function hashFunction(start, end) {
+  key = `${start}${end}`;
+  return key;
+}
+
+let givenData = [ new coordinate(0, 9.81), new coordinate(20_000, 9.7487), new coordinate(40_000, 9.6879), new coordinate(60_000, 9.6879),  new coordinate(80000, 9.5682) ];
 
 function approximateX ( givenData, xToFind ) {
   let answerOfC = [ givenData[0].functionX ];
@@ -32,10 +49,10 @@ function approximateX ( givenData, xToFind ) {
     let currentSumThisTerm = 1;
     let coefficient = answerOfC[i];
       
-  for ( let j = 0; j < i; j++ ) {
-    currentSumThisTerm *= (xToFind - givenData[j].x);
-    // console.log( `${coefficient} * (${xToFind} - ${ givenData[j].x })` );
-  }   
+    for ( let j = 0; j < i; j++ ) {
+      currentSumThisTerm *= (xToFind - givenData[j].x);
+      // console.log( `${coefficient} * (${xToFind} - ${ givenData[j].x })` );
+    }   
     sum += currentSumThisTerm * coefficient;
   }
 
@@ -45,4 +62,5 @@ function approximateX ( givenData, xToFind ) {
 let x42235 = approximateX(givenData, 42_235);
 
 console.log( `f(x42235) = ${x42235}` );
+// console.log( round );
 

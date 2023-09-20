@@ -28,7 +28,7 @@ function approximateX ( givenData, xToFind ) {
     answerOfC[i] = findC( currentData, 0, currentData.length - 1) / (currentData[0].x - currentData[currentData.length-1].x);
     //console.log( currentData );
   }
-  // console.log( answerOfC );
+  console.log( answerOfC );
   let sum = answerOfC[0];
   for ( let i = 1; i < answerOfC.length; i++ ) {
     let currentSumThisTerm = 1;
