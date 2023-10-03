@@ -1,3 +1,5 @@
+var math = require("mathjs");
+
 class coordinate {
   constructor (x,y) {
     this.x = x;
@@ -79,15 +81,57 @@ function initializeMatrixA( data ) {
 
   MatrixA[++currentLevel][lastIndexOfM - 2] = Math.pow(data[lastIndexOfD].x, 2);
   MatrixA[currentLevel][lastIndexOfM - 1] = data[lastIndexOfD].x;
-  MatrixA[currentLevel][lastIndexOfM] = 1;
+  MatrixA[currentLevel++][lastIndexOfM] = 1;
 
   // console.log( currentLevel, lastIndexOfM - 2 );
+
+  console.log( coorBetweenStart_End );
+  //slope 
+  let offSet = -1;
+  for ( let f = 0; f < MatrixA.length - currentLevel; f++ ) {
+    if ( f == 0 ) {
+      MatrixA[currentLevel + f][0] = 1;
+      MatrixA[currentLevel + f][2] = -2 * coorBetweenStart_End[f].x;
+      MatrixA[currentLevel + f][3] = -1;
+    } else {
+      offSet += 3;
+      MatrixA[currentLevel + f][offSet] = 2 * coorBetweenStart_End[f].x;
+      MatrixA[currentLevel + f][offSet + 1] = 1;
+      MatrixA[currentLevel + f][offSet + 3] = -2 * coorBetweenStart_End[f].x;
+      MatrixA[currentLevel + f][offSet + 4] = -1;
+    }
+    // console.log(f);
+  }
 
   return MatrixA;
 }
 
 //  atrixB( data );
 let matrixA = initializeMatrixA( data );
+let matrixB = initializeMatrixB( data );
 
+let detA = math.det( matrixA );
 
-console.log( matrixA );
+function doCrammerRule( matrixA, matrixB ) {
+  let matrixX = [];
+  for ( let i = 0; i < matrixA.length; i++ ) {
+
+    matrixTemp = [];
+  
+    for(let n = 0; n < matrixA.length; n++) {
+      matrixTemp[n] = [...matrixA[n]];
+    }
+  
+    for ( let j = 0; j < matrixA[i].length; j++) {
+      matrixTemp[j][i] = matrixB[j];
+    }
+  
+    matrixX.push( math.det(matrixTemp) / detA );
+  } 
+  return matrixX;
+}
+
+let matrixX = doCrammerRule( matrixA, matrixB );
+
+console.log( matrixX );
+
