@@ -113,7 +113,7 @@ let matrixB = initializeMatrixB( data );
 let detA = math.det( matrixA );
 
 function doCrammerRule( matrixA, matrixB ) {
-  let matrixX = [];
+  let matrixX = [0];
   for ( let i = 0; i < matrixA.length; i++ ) {
 
     matrixTemp = [];
@@ -131,7 +131,21 @@ function doCrammerRule( matrixA, matrixB ) {
   return matrixX;
 }
 
+function interpolate( matrixX, data, xTofind ) {
+  for( let i = 1; i < data.length; i++ ) {
+    if( data[i].x > xTofind ) {
+      let a = matrixX[(i - 1)* 3];
+      let b = matrixX[(i - 1) * 3 + 1];
+      let c = matrixX[(i - 1) * 3 + 2];
+
+      return f( xTofind, a, b ,c );
+
+    }
+  }
+}
+
 let matrixX = doCrammerRule( matrixA, matrixB );
+let xTofind = 4.5;
+let interpolation = interpolate( matrixX, data, xTofind );
 
-console.log( matrixX );
-
+console.log( interpolation );
