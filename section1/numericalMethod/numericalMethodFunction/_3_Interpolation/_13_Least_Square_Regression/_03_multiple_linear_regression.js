@@ -18,7 +18,7 @@ data.push( new coordinate([2, 4, 1], -6) );
 data.push( new coordinate([3, 2, 2], 0) );
 data.push( new coordinate([4, 1, 5], -1) );
 data.push( new coordinate([2, 3, 3], -7) );
-data.push( new coordinate([1, 6, 4], 20) );
+data.push( new coordinate([1, 6, 4], -20) );
 
 function initialMatrixA ( data ) {
   let matrixA = [];
