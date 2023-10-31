@@ -1,0 +1,1 @@
+matrixA[j][i] = factor;

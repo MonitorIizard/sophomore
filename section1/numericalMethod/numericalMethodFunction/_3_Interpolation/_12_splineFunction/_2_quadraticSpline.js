@@ -85,7 +85,7 @@ function initializeMatrixA( data ) {
 
   // console.log( currentLevel, lastIndexOfM - 2 );
 
-  console.log( coorBetweenStart_End );
+  // console.log( coorBetweenStart_End );
   //slope 
   let offSet = -1;
   for ( let f = 0; f < MatrixA.length - currentLevel; f++ ) {
