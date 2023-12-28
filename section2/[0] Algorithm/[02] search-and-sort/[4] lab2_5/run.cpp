@@ -111,11 +111,11 @@ public:
       smallest = l;
     }
 
-    if ( l < length && harr[smallest].point == harr[l].point  && harr[l].type == 'o'){
+    if ( l < length && harr[smallest].point == harr[l].point  && harr[l].type == 'i'){
       smallest = l;
     }
 
-    if ( r < length && harr[smallest].point == harr[r].point  && harr[r].type == 'o'){
+    if ( r < length && harr[smallest].point == harr[r].point  && harr[r].type == 'i'){
       smallest = r;
     }
 
@@ -152,6 +152,10 @@ int main() {
 
   commonTime *customersCount[numberOfCustomers];
 
+  for ( int i = 0; i < numberOfCustomers; i++ ) {
+    customersCount[i] = new commonTime();
+  }
+
   minHeap *minheap = new minHeap(numberOfCustomers * 2);
 
   for ( int i = 0; i < numberOfCustomers; i++ ) {
@@ -181,30 +185,47 @@ int main() {
     }
 
     if ( min.type == 'o' ) {
-      // cout << currentlyCustCount-- << " ";
       // stamp currently customer count for each intersect time interval;
       int ep = min.point;
-      customersCount[currentIndex++] = new commonTime(sp, ep, currentlyCustCount);
 
-      if ( mostCount < currentlyCustCount ) {
+      if ( mostCount <= currentlyCustCount ) {
+        customersCount[currentIndex++] = new commonTime(sp, ep, currentlyCustCount);
         mostCount = currentlyCustCount;
       }
 
       currentlyCustCount--;
-      // cout << currentIndex++;
     }
 
     k--;
   }
 
+  int streak = 0;
+  int startPoint = 0;
+  int endPoint = 0;
   for ( int i = 0; i < numberOfCustomers; i++ ) {
 
     if ( customersCount[i]->numberOfCustomers == mostCount ) {
-      cout << customersCount[i]->startPoint << " " << customersCount[i]->endPoint << " " << customersCount[i]->numberOfCustomers; 
-      break;
+      if ( streak != 1 ) {
+        startPoint = customersCount[i]->startPoint; 
+        endPoint = customersCount[i]->endPoint;
+        streak = 1;
+      }
+
+      if ( streak == 1 && customersCount[i]->numberOfCustomers == mostCount ) {
+        endPoint = customersCount[i]->endPoint;
+      } else {
+        break;
+      }
     }
   }
-  minheap->printAll();
+
+  cout << startPoint << " " << endPoint << " " << mostCount;
+
+  // for ( int i = 0; i < numberOfCustomers; i++ ) {
+  //   cout << "i : " << i << " " << customersCount[i]->numberOfCustomers << endl;
+  //   cout << "in : " << customersCount[i]->startPoint << "end : " << customersCount[i]->endPoint << endl << endl;
+  // }
+  // // minheap->printAll();
 
   return 0;
 }
