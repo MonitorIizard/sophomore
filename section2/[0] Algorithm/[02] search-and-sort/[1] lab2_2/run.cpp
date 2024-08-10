@@ -29,7 +29,7 @@ int main() {
 
   insertionSort( arr, size );
 
-  int unique = 1;
+  int unique = 0;
 
   for ( int i = 1; i < size; i++ ) {
     if ( arr[i-1] != arr[i]) {

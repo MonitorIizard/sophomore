@@ -1,0 +1,1 @@
+swap( &data[start], &data[i] );

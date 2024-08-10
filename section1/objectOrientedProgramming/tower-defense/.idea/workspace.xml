@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c994755-a185-4663-932a-0641f2cd24c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../OOP/Umbrella/src/Panel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex1_cal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex2_deposit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex3_area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex4_financial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex5_findExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex6_multriTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex7_function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex8_recurrence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment1/ex9_findMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/src/_1_findMaxMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/src/_2_errorCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/src/_4_FrequencyCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment2/week6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/_10_Light.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/_4_Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/_5_RoachPopulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/_6_Palindome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/_7_MyTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/_8_Estimate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/src/_9_CheckTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment3/week3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/MatrixMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_10_car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_11_oilDeposit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_5_matrixMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_5_matrixMultiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_6_findMinDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_6_findMinDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_7_minTwoSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_7_minTwoSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_8_findPokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment4/demo/src/main/java/assignment4/_9_hiddenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/assignment5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/src/_1_list.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/src/_2_star.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/src/_3_sortedMergeArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/src/_4_highPopulation_area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/src/_5_Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment5/src/_6_hiddenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/assignement6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/src/_4_Overriding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/src/_5_Account1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/src/_6_Account2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/src/_7_Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment6/src/_8_RectangleAndLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/assignment7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/src/_1_Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/src/_2_Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/src/_3_FruitKingdom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/src/_4_ConsiderThisProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/src/_5_EmployeeAndManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment7/src/_6_shortestWay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment8/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/assignment8/src/_3_DrawGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/fan/src/ArcsPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/fan/src/DrawArcs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/fan/src/FanControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dataStructure/[06]heap/tutorialMaxHeap/tutorialMaxHeap" beforeDir="false" afterPath="$PROJECT_DIR$/../../dataStructure/[06]heap/tutorialMaxHeap/tutorialMaxHeap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dataStructure/[06]heap/tutorialMaxHeap/tutorialMaxHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../dataStructure/[06]heap/tutorialMaxHeap/tutorialMaxHeap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dataStructure/[08]AVL_Tree/AVLTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../dataStructure/[08]AVL_Tree/AVLTree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_1_rootOfEquation/_1_GraphicalMetohd/ex1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_1_rootOfEquation/_1_GraphicalMetohd/ex2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_1_rootOfEquation/_2_Bisection/ex1/ex1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_1_rootOfEquation/_3_FalsePosition/ex1/ex1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_1_rootOfEquation/_4_OnePointIteration/ex4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_1_rootOfEquation/_5_NewtonRophson/_5_NewtonRophson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_10_InterpolationAndExterpolation/_10_InterpolationFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex1_linearInterpolation/ex1_linear.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex2_quadratic/ex2_quadratic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex3_polynomial/ex3_polynomial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex3_polynomial/tempCodeRunnerFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_11_Lagange/ex11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_1_CrammerRule/ex1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_2_GaussElimination/ex2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_3_GaussJordan/ex1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_3_GaussJordan/tempCodeRunnerFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_6_LUDecompose/LUdecompose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_7_Jacobi/_7_Jacobi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_8_GaussSeidel/_8_GaussSeidel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/_2_linearAlgebra/_9_ConjugateGradient/_9_ConjugateGradient.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex1/ex1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex1/ex1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex2/ex2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex2/ex2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex3/ex1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex3/ex1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex4/ex4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex4/ex4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex5/ex5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex5/ex5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex5/temp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/assignment1/ex5/temp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/ex1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/ex1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/midterm1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/.bin/mathjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/AsyncGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/AwaitValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/OverloadYield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/applyDecs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/applyDecs2203.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/applyDecs2203R.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/applyDecs2301.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/applyDecs2305.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/arrayLikeToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/arrayWithHoles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/assertThisInitialized.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/asyncIterator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/asyncToGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/awaitAsyncGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/checkInRHS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/checkPrivateRedeclaration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classApplyDescriptorDestructureSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classApplyDescriptorGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classApplyDescriptorSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classCallCheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classCheckPrivateStaticAccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classCheckPrivateStaticFieldDescriptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classExtractFieldDescriptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classNameTDZError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateFieldDestructureSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateFieldGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateFieldInitSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateFieldLooseBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateFieldLooseKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateFieldSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateMethodGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateMethodInitSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classPrivateMethodSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classStaticPrivateFieldDestructureSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classStaticPrivateMethodGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/classStaticPrivateMethodSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/construct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/createClass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/createForOfIteratorHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/createForOfIteratorHelperLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/createSuper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/decorate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/defineAccessor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/defineEnumerableProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/defineProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/dispose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/AwaitValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/OverloadYield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/applyDecs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/applyDecs2203.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/applyDecs2203R.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/applyDecs2301.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/applyDecs2305.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/asyncIterator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/awaitAsyncGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/checkInRHS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/checkPrivateRedeclaration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classApplyDescriptorDestructureSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classApplyDescriptorGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classApplyDescriptorSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classCallCheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classCheckPrivateStaticAccess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classCheckPrivateStaticFieldDescriptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classExtractFieldDescriptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classNameTDZError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateFieldDestructureSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateFieldGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateFieldInitSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateFieldSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateMethodGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateMethodInitSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classPrivateMethodSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldDestructureSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classStaticPrivateMethodGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/classStaticPrivateMethodSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/construct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/createClass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelperLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/createSuper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/decorate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/defineAccessor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/defineEnumerableProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/defineProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/dispose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/extends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/get.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/identity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/initializerDefineProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/initializerWarningHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/instanceof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/isNativeFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/isNativeReflectConstruct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/iterableToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimitLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/jsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/maybeArrayLike.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/newArrowCheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/objectDestructuringEmpty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/objectSpread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/objectSpread2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/readOnlyError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/regeneratorRuntime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/skipFirstGeneratorNext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/slicedToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/slicedToArrayLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/superPropBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteralLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/tdz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/temporalRef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/temporalUndefined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/toArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/toPrimitive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/typeof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/using.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/wrapAsyncGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/wrapRegExp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/esm/writeOnlyError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/extends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/get.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/getPrototypeOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/identity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/inheritsLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/initializerDefineProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/initializerWarningHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/instanceof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/interopRequireDefault.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/interopRequireWildcard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/isNativeFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/isNativeReflectConstruct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/iterableToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/iterableToArrayLimitLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/jsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/maybeArrayLike.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/newArrowCheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/nonIterableRest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/nonIterableSpread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/objectDestructuringEmpty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/objectSpread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/objectSpread2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/objectWithoutProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/readOnlyError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/regeneratorRuntime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/setPrototypeOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/slicedToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/slicedToArrayLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/superPropBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/taggedTemplateLiteralLoose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/tdz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/temporalRef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/temporalUndefined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/toArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/toConsumableArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/toPrimitive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/toPropertyKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/typeof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/using.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/wrapAsyncGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/wrapNativeSuper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/wrapRegExp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/helpers/writeOnlyError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/@babel/runtime/regenerator/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/complex.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/complex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/complex.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/examples/gamma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/complex.js/tests/complex.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/decimal.js/LICENCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/decimal.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/decimal.js/decimal.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/decimal.js/decimal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/decimal.js/decimal.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/decimal.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/escape-latex/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/escape-latex/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/escape-latex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/fraction.js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/fraction.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/fraction.js/bigfraction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/fraction.js/fraction.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/fraction.js/fraction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/fraction.js/fraction.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/fraction.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/javascript-natural-sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/scopes/scope_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/naturalSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/speed-tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/javascript-natural-sort/unit-tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/bin/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/bin/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/bin/repl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/main/es5/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/main/es5/number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/main/es5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/main/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/main/esm/number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/main/esm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/number.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/mathjs/types/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/regenerator-runtime/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/regenerator-runtime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/regenerator-runtime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/regenerator-runtime/path.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/regenerator-runtime/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/.coveralls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/.nyc_output/f02e18a9-b1c7-4946-836e-c3dbfb9635a3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/.nyc_output/processinfo/f02e18a9-b1c7-4946-836e-c3dbfb9635a3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/.nyc_output/processinfo/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/coverage.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/block-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/seedrandom/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/seedrandom/seedrandom.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/sort-arrow-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov-report/sorter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/coverage/lcov.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/seedrandom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/seedrandom/seedrandom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/instance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/tiny-emitter/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/typed-function/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/typed-function/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/node_modules/typed-function/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex3_polynomial/ex3_polynomial.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex3_polynomial/ex3_polynomial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex3_polynomial/tempCodeRunnerFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_2_linearAlgebra/_10_InterpolationAndExterpolation/ex3_polynomial/tempCodeRunnerFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_2_linearAlgebra/_9_ConjugateGradient/_9_ConjugateGradient.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_2_linearAlgebra/_9_ConjugateGradient/_9_ConjugateGradient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_3_Interpolation/_11_Lagange/ex11.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_3_Interpolation/_11_Lagange/ex11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_3_Interpolation/_12_splineFunction/_1_linearSpline.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_3_Interpolation/_12_splineFunction/_1_linearSpline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_3_Interpolation/_12_splineFunction/_2_quadraticSpline.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_3_Interpolation/_12_splineFunction/_2_quadraticSpline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_4_Least_Square_Regression/_03_multiple_linear_regression.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_4_Least_Square_Regression/_03_multiple_linear_regression.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_5_Approximate_Integration/_1_Trapezodial/_1_Trapezodial.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../numericalMethod/numericalMethodFunction/_5_Approximate_Integration/_1_Trapezodial/_1_Trapezodial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../numericalMethod/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment11/_5Shooting/src/_3_Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment8/src/_4_Employee.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2XhdwiPV7pdpApTzcNWYCwbpLPT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "/Users/salamander/Documents/_01_selfImprovement/_01_hardSkill/_01_KMUTNB/Sophomore/section1/objectOrientedProgramming/tower-defense/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="tower-defense" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c994755-a185-4663-932a-0641f2cd24c7" name="Changes" comment="" />
+      <created>1699085486608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699085486608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

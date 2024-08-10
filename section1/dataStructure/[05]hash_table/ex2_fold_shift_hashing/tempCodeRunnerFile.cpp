@@ -1,1 +1,0 @@
-sum += (int)temp;

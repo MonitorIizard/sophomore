@@ -1,1 +1,0 @@
-let givenData = [ new coordinate(0, 9.81), new coordinate(20_000, 9.7487), new coordinate(40_000, 9.6879), new coordinate(60_000, 9.6879),  new coordinate(80000, 9.5682) ];
